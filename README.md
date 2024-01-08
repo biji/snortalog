@@ -31,3 +31,6 @@ make install
 ```
 
 Copy `snort.html` to `/var/www/html/`
+
+Open using browser
+
