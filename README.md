@@ -1,5 +1,9 @@
 # snortalog
 
+Perl script that summarizes Snort logs
+
+Original version: http://jeremy.chartier.free.fr/snortalog/
+
 ## Install on ubuntu 22.04
 
 ```
