@@ -486,7 +486,7 @@ if ($opt{x}) {
 		if ( $filename =~ /(^\/[\/||\w||\d||\-||\_]+\/)[\w||\d||\-||\_]+\.\w+$/ ) {
 			$filedir = $1;
 		} elsif ( $filename =~ /^[\w||\d||\-||\_]+\.\w+$/ ) {
-			$filedir = ".";
+			$filedir = "./";
 		}
 		$filename =~ /([\w||\d||\-||\_]+\.\w+)$/;
 		$filename = $1;
