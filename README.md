@@ -34,5 +34,6 @@ make install
 ./snortalog.pl -1  -i -g png -o /var/www/html/snort.html -report  -d  < alert_fast.txt
 ```
 
-Open using browser
+Open using browser, `http://snort.ip.address/snort.html`
+
 
