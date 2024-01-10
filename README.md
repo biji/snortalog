@@ -31,10 +31,8 @@ make install
 # Run
 
 ```
-./snortalog.pl -1  -i -g png -o snort.html -report  -d  < alert_fast.txt
+./snortalog.pl -1  -i -g png -o /var/www/html/snort.html -report  -d  < alert_fast.txt
 ```
-
-Copy `snort.html` to `/var/www/html/`
 
 Open using browser
 
